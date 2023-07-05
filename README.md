@@ -6,7 +6,7 @@
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndreyGladchenko&count_private=true&show_icons=true" />
 </a>
-![](https://komarev.com/ghpvc/?username=AndreyGladchenko)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=AndreyGladchenko)
 <!--
 **AndreyGladchenko/AndreyGladchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

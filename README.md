@@ -12,17 +12,14 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andusdev&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AndreyGladchenko&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andusdev&layout=compact&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyGladchenko&layout=compact&theme=dark" width="350"></a>
 </p>
 
 ---
 
-<a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndreyGladchenko&count_private=true&show_icons=true" />
-</a>
 
 ---
 
@@ -39,6 +36,11 @@ My stack
 
 
 <!--
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndreyGladchenko&count_private=true&show_icons=true" />
+</a>
+
+
 [![Hits](https://hits.sh/github.com/AndreyGladchenko/hits.svg)](https://hits.sh/github.com/AndreyGladchenko/hits/)
 **AndreyGladchenko/AndreyGladchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

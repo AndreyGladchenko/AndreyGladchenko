@@ -20,11 +20,13 @@ My stack
 </p>
 
 </br>
+<p align="left">
 <a href="">
 
   ![](https://komarev.com/ghpvc/?username=AndreyGladchenko&color=blueviolet)
 
 </a>
+</p>
 
 <!--
 [![Hits](https://hits.sh/github.com/AndreyGladchenko/hits.svg)](https://hits.sh/github.com/AndreyGladchenko/hits/)

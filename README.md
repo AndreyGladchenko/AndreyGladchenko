@@ -1,6 +1,13 @@
 <center>
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">An Russian full stack developer</h3>
+<p align="left">
+<a href="">
+
+  ![](https://komarev.com/ghpvc/?username=AndreyGladchenko&color=blueviolet)
+
+</a>
+</p>
 
 - 😊 I’m a beginning programmer.
 - 🎓 My research interest lies in Knowledge-Based and Data-Driven Machine Learninig.
@@ -20,13 +27,7 @@ My stack
 </p>
 
 </br>
-<p align="left">
-<a href="">
 
-  ![](https://komarev.com/ghpvc/?username=AndreyGladchenko&color=blueviolet)
-
-</a>
-</p>
 
 <!--
 [![Hits](https://hits.sh/github.com/AndreyGladchenko/hits.svg)](https://hits.sh/github.com/AndreyGladchenko/hits/)

@@ -6,7 +6,7 @@
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndreyGladchenko&count_private=true&show_icons=true" />
 </a>
-![](https://komarev.com/ghpvc/?username=AndreyGladchenko&color=blueviolet)
+
 <!--
 [![Hits](https://hits.sh/github.com/AndreyGladchenko/hits.svg)](https://hits.sh/github.com/AndreyGladchenko/hits/)
 **AndreyGladchenko/AndreyGladchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 https://habr.com/ru/articles/649363/
 https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 -->
+![](https://komarev.com/ghpvc/?username=AndreyGladchenko&color=blueviolet)

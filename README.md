@@ -6,6 +6,17 @@
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndreyGladchenko&count_private=true&show_icons=true" />
 </a>
+<br>
+
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=5539cc)
+![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=5539cc)
+
+</br>
+<a href="">
+
+  ![](https://komarev.com/ghpvc/?username=AndreyGladchenko&color=blueviolet)
+
+</a>
 
 <!--
 [![Hits](https://hits.sh/github.com/AndreyGladchenko/hits.svg)](https://hits.sh/github.com/AndreyGladchenko/hits/)
@@ -24,14 +35,4 @@ Here are some ideas to get you started:
 https://habr.com/ru/articles/649363/
 https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 -->
-<br>
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=5539cc)
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=5539cc)
-
-</br>
-<a href="">
-
-![](https://komarev.com/ghpvc/?username=AndreyGladchenko&color=blueviolet)
-
-</a>

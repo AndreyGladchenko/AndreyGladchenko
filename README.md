@@ -10,6 +10,14 @@
 - 🎓 My research interest lies in Knowledge-Based and Data-Driven Machine Learninig.
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Im+curently+working+on+this+page)](https://git.io/typing-svg)
 
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andusdev&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andusdev&layout=compact&theme=dark" width="350"></a>
+</p>
+
 ---
 
 <a href="">

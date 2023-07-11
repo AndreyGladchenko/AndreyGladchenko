@@ -3,7 +3,8 @@
 <h3 align="center">An Russian full stack developer</h3>
 <blockquote align="center">☕ An organism capable of converting caffeine into code</blockquote>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreyGladchenko&label=Profile%20views&color=blueviolet&style=flat" alt="AndreyGladchenko" /> </p>
----
+
+ ---
  
 - 😊 I’m a beginning programmer.
 - 🎓 My research interest lies in Knowledge-Based and Data-Driven Machine Learninig.
@@ -23,8 +24,6 @@ My stack
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=5539cc)
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=5539cc)
 </p>
-
----
 
 </br>
 

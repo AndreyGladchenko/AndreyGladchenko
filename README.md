@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 https://habr.com/ru/articles/649363/
 https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 -->
+<br>
+![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=5539cc)
 </br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=AndreyGladchenko&color=blueviolet)
+
+</br>

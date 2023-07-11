@@ -30,8 +30,8 @@ https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-wr
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=5539cc)
 
 </br>
-<br>
+<a href="">
 
 ![](https://komarev.com/ghpvc/?username=AndreyGladchenko&color=blueviolet)
 
-</br>
+</a>

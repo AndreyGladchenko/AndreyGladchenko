@@ -1,7 +1,7 @@
 <center>
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">An Russian full stack developer</h3>
-<p align="left">
+<p align="center">
 <a href="">
 
   ![](https://komarev.com/ghpvc/?username=AndreyGladchenko&color=blueviolet)

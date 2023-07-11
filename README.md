@@ -8,10 +8,11 @@
 - 🎓 My research interest lies in Knowledge-Based and Data-Driven Machine Learninig.
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Im+curently+working+on+this+page)](https://git.io/typing-svg)
 
+---
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndreyGladchenko&count_private=true&show_icons=true" />
 </a>
----
+
 <br>
 
 <p align="center">

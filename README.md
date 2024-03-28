@@ -33,7 +33,7 @@
 
 </br>
 
-[![Discord](https://img.shields.io/discord/707525351357677610.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/sgUz53k)
+[![Discord](https://img.shields.io/discord/484067040307576873.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/sgUz53k)
 
 <!--
 <a href="">

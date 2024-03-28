@@ -32,7 +32,7 @@
 </p>
 
 </br>
-
+[![Discord](https://img.shields.io/discord/707525351357677610.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/sgUz53k)
 <!--
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndreyGladchenko&count_private=true&show_icons=true" />
